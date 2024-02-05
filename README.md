@@ -1,16 +1,20 @@
-# todolist
+# Todo List
 
-A new Flutter project.
+This is a basic Todo List app developed using Dart and Flutter framework.
 
-## Getting Started
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- View all tasks in a list
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Make sure you have Flutter installed. If not, follow the instructions on [Flutter's official website](https://flutter.dev/docs/get-started/install).
+2. Clone this repository.
+3. Run `flutter pub get` to install dependencies.
+4. Connect a device or emulator and run `flutter run` to launch the app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+- Press Enter on the keyboard to add a new task.
+- Long press on a task to delete it.
+- Tap on the check mark to mark it as completed.
